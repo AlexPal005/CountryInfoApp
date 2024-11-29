@@ -12,9 +12,11 @@ npx nodemon --exec ts-node "server.ts"
 
 server is running
 then:
+
 cd..
 
 4) run react:
+   
 cd frontend
 
 npm install
